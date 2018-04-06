@@ -1,0 +1,2 @@
+# KOP
+Komplexná odborná práca
